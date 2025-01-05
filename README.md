@@ -25,9 +25,9 @@ To run this project, you'll need:
 - Clone this repository to your local machine:
 git clone https://github.com/yourusername/GeneFinder.git
 - Navigate to the project directory:
-cd GeneFinder
+execute cd GeneFinder
 - Open the Jupyter Notebook:
-jupyter notebook
+execute jupyter notebook
 - Open GeneFinder.ipynb in the notebook interface.
 
 ## How to Use
