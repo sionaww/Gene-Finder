@@ -7,11 +7,11 @@ This project involves building a gene-finding tool to analyze DNA sequences from
 
 ## Technologies Used
 
-Python 3
-Jupyter Notebook
-Bioinformatics concepts (ORFs, DNA sequencing)
-Libraries: random (for generating shuffled DNA sequences)
-Prerequisites
+- Python 3
+- Jupyter Notebook
+- Bioinformatics concepts (ORFs, DNA sequencing)
+- Libraries: random (for generating shuffled DNA sequences)
+
 
 ## Installation
 To run this project, you'll need:
