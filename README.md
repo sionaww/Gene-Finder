@@ -16,18 +16,19 @@ This project involves building a gene-finding tool to analyze DNA sequences from
 ## Installation
 To run this project, you'll need:
 
-Python 3.x installed on your machine
-Jupyter Notebook environment (e.g., Anaconda or JupyterLab)
-random library (comes built-in with Python)
-Installation Instructions
+- Python 3.x installed on your machine
+- Jupyter Notebook environment (e.g., Anaconda or JupyterLab)
+- random library (comes built-in with Python)
 
-Clone this repository to your local machine:
+### Installation Instructions
+
+- Clone this repository to your local machine:
 git clone https://github.com/yourusername/GeneFinder.git
-Navigate to the project directory:
+- Navigate to the project directory:
 cd GeneFinder
-Open the Jupyter Notebook:
+- Open the Jupyter Notebook:
 jupyter notebook
-Open GeneFinder.ipynb in the notebook interface.
+- Open GeneFinder.ipynb in the notebook interface.
 
 ## How to Use
 
